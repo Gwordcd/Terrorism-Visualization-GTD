@@ -1,4 +1,7 @@
 # 固定 numpy 版本，避免二进制兼容性问题
+gunicorn==20.1.0
+setuptools>=40.9.0
+wheel
 numpy==1.24.3
 pandas==2.0.3
 plotly==5.18.0
