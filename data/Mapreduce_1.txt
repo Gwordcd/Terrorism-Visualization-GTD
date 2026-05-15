@@ -1,0 +1,183 @@
+1	Iraq	  24923
+2	Afghanistan	18919
+3	Pakistan	15504
+4	India	13929
+5	Colombia	8915
+6	Philippines	8271
+7	Peru    6111
+8	Yemen	6027
+9	Nigeria	5550
+10	United Kingdom	5513
+11	El Salvador	5320
+12	Somalia	5317
+13	Turkey	4485
+14	Thailand	4201
+15	Spain	3255
+16	United States	3121
+17	Sri Lanka	3041
+18	Syria	2997
+19	Algeria	2753
+20	France	2751
+21	West Bank and Gaza Strip	2669
+22	Egypt	2654
+23	Chile	2499
+24	Russia	2242
+25	South Africa	2097
+26	Guatemala	2055
+27	Nicaragua	1983
+28	Ukraine	1818
+29	Bangladesh	1743
+30	Nepal	1551
+31	Democratic Republic of the Congo	1498
+32	Greece	1386
+33	Sudan	1068
+34	Mali	1009
+35	Cameroon	879
+36	Indonesia	850
+37	Argentina	826
+38	Germany	816
+39	Mozambique	785
+40	Myanmar	743
+41	Iran	712
+42	Burundi	636
+43	Mexico	600
+44	Saudi Arabia	582
+45	West Germany (FRG)	541
+46	Angola	501
+47	Uganda	413
+48	Burkina Faso	395
+49	Central African Republic	382
+50	Honduras	330
+51	Bolivia	326
+52	South Sudan	323
+53	Venezuela	320
+54	Brazil	295
+55	China	288
+56	Ethiopia	280
+57	Cambodia	261
+58	Niger	257
+59	Ecuador	245
+60	Haiti	224
+61	Georgia	219
+62	Bahrain	208
+63	Yugoslavia	203
+64	Tajikistan	193
+65	Netherlands	177
+66	Rwanda	168
+67	Belgium	161
+68	Bosnia-Herzegovina	161
+69	Namibia	151
+70	Tunisia	150
+71	Sweden	146
+72	Portugal	141
+73	Chad	132
+74	Cyprus	130
+75	Panama	127
+76	Canada	126
+77	Senegal	122
+78	Australia	120
+79	Austria	120
+80	Paraguay	120
+81	Switzerland	116
+82	Malaysia	109
+83	Zimbabwe	106
+84	Sierra Leone	101
+85	Dominican Republic	89
+86	Papua New Guinea	89
+87	Rhodesia	83
+88	Albania	82
+89	Uruguay	82
+90	Soviet Union	78
+91	Tanzania	71
+92	Costa Rica	69
+93	Suriname	66
+94	Macedonia	63
+95	Zambia	62
+96	Croatia	58
+97	Guadeloupe	56
+98	New Caledonia	55
+99	Bulgaria	54
+100	Taiwan	54
+101	Azerbaijan	50
+102	Zaire	50
+103	Togo	48
+104	Hungary	47
+105	Denmark	45
+106	Poland	42
+107	South Korea	40
+108	East Germany (GDR)	38
+109	Morocco	37
+110	Republic of the Congo	36
+111	Ghana	34
+112	Guyana	33
+113	New Zealand	33
+114	Czech Republic	32
+115	Cuba	30
+116	Maldives	29
+117	Guinea	27
+118	Madagascar	27
+119	Hong Kong	26
+120	Armenia	25
+121	Finland	25
+122	Trinidad and Tobago	25
+123	Norway	24
+124	Malta	23
+125	Djibouti	22
+126	United Arab Emirates	22
+127	Moldova	21
+128	Uzbekistan	21
+129	Mauritania	19
+130	Slovak Republic	19
+131	Eritrea	17
+132	Fiji	17
+133	Swaziland	16
+134	Belarus	15
+135	Estonia	15
+136	Serbia	14
+137	Vietnam	13
+138	Malawi	12
+139	Martinique	12
+140	Serbia-Montenegro	11
+141	Benin	10
+142	Botswana	10
+143	Czechoslovakia	10
+144	East Timor	10
+145	Gabon	9
+146	Guinea-Bissau	9
+147	Belize	8
+148	Comoros	8
+149	Montenegro	8
+150	French Guiana	7
+151	Qatar	7
+152	Singapore	7
+153	Western Sahara	7
+154	Bhutan	6
+155	Brunei	6
+156	North Yemen	6
+157	Romania	6
+158	Slovenia	6
+159	Bahamas	5
+160	Grenada	5
+161	Dominica	4
+162	Iceland	4
+163	People's Republic of the Congo	4
+164	Solomon Islands	4
+165	Barbados	3
+166	French Polynesia	3
+167	Gambia	3
+168	Equatorial Guinea	2
+169	Mauritius	2
+170	Seychelles	2
+171	South Yemen	2
+172	St. Kitts and Nevis	2
+173	St. Lucia	2
+174	Turkmenistan	2
+175	Vanuatu	2
+176	Andorra	1
+177	Antigua and Barbuda	1
+178	Falkland Islands	1
+179	International	1
+180	New Hebrides	1
+181	North Korea	1
+182	Vatican City	1
+183	Wallis and Futuna	1

@@ -1,0 +1,71 @@
+decade,region_txt,event_count,casualties_total
+1970,Australasia & Oceania,32,42
+1970,Central America & Caribbean,1836,2450
+1970,East Asia,156,204
+1970,Eastern Europe,52,106
+1970,Middle East & North Africa,2180,7576
+1970,North America,3192,1882
+1970,South America,2018,1984
+1970,South Asia,102,400
+1970,Southeast Asia,386,2726
+1970,Sub-Saharan Africa,484,1866
+1970,Western Europe,9388,10986
+1980,Australasia & Oceania,156,260
+1980,Central America & Caribbean,14980,64524
+1980,East Asia,220,326
+1980,Eastern Europe,86,182
+1980,Middle East & North Africa,5766,32652
+1980,North America,1114,2770
+1980,South America,19396,41478
+1980,South Asia,5742,40150
+1980,Southeast Asia,2172,14688
+1980,Sub-Saharan Africa,3152,20362
+1980,Western Europe,9528,16678
+1990,Australasia & Oceania,226,382
+1990,Central America & Caribbean,3694,7884
+1990,Central Asia,670,4698
+1990,East Asia,832,15938
+1990,Eastern Europe,2124,7216
+1990,Middle East & North Africa,10846,55488
+1990,North America,1316,4052
+1990,South America,11526,31666
+1990,South Asia,9676,79966
+1990,Southeast Asia,3286,14538
+1990,Sub-Saharan Africa,5376,56992
+1990,Western Europe,7958,8862
+2000,Australasia & Oceania,50,52
+2000,Central America & Caribbean,118,338
+2000,Central Asia,296,952
+2000,East Asia,176,1374
+2000,Eastern Europe,2650,15030
+2000,Middle East & North Africa,16214,182430
+2000,North America,584,50636
+2000,South America,2300,10482
+2000,South Asia,16056,119008
+2000,Southeast Asia,5414,23816
+2000,Sub-Saharan Africa,3440,33130
+2000,Western Europe,2816,8072
+2010,Australasia & Oceania,144,296
+2010,Central America & Caribbean,118,214
+2010,Central Asia,182,558
+2010,East Asia,268,2940
+2010,Eastern Europe,5620,16570
+2010,Middle East & North Africa,77894,467648
+2010,North America,1228,5360
+2010,South America,3918,7514
+2010,South Asia,71038,324834
+2010,Southeast Asia,16900,33598
+2010,Sub-Saharan Africa,31046,190376
+2010,Western Europe,4398,6080
+2020,Australasia & Oceania,44,6
+2020,Central America & Caribbean,30,36
+2020,Central Asia,12,2
+2020,East Asia,52,48
+2020,Eastern Europe,152,170
+2020,Middle East & North Africa,6128,17574
+2020,North America,378,616
+2020,South America,828,1238
+2020,South Asia,10542,56340
+2020,Southeast Asia,1584,2908
+2020,Sub-Saharan Africa,6268,37062
+2020,Western Europe,778,382

@@ -1,0 +1,7 @@
+# 固定 numpy 版本，避免二进制兼容性问题
+numpy==1.24.3
+pandas==2.0.3
+plotly==5.18.0
+dash==2.14.0
+
+# pip install -r requirements.txt

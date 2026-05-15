@@ -1,0 +1,5 @@
+Middle East & North Africa_2014	Total Events:1802	Total Kills:12289	Avg Kills:6.82
+South Asia_2021	Total Events:1201	Total Kills:6858	Avg Kills:5.71
+Sub-Saharan Africa_2015	Total Events:951	Total Kills:5230	Avg Kills:5.50
+Middle East & North Africa_2004	Total Events:782	Total Kills:4219	Avg Kills:5.40
+South Asia_2009	Total Events:1022	Total Kills:5105	Avg Kills:5.00
